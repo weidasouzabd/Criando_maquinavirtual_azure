@@ -1,6 +1,7 @@
 README
 # Criando_maquinavirtual_azure
 Laboratório da DIO curso - XP Inc. - Cloud com Inteligência Artificial
+
 📚 Introdução
 Este guia fornece instruções detalhadas para criar uma máquina virtual (VM) no Microsoft Azure. As máquinas virtuais do Azure oferecem infraestrutura computacional sob demanda com controle completo sobre o ambiente de computação.
 
